@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🎁 직장인을 위한 댄디한 패션 스타일링 커머스 '댄블' FE 개발자
+
 🌱 코로나19 속 유아의 언어학습을 돕는 '마리모' 앱개발자
 
 
