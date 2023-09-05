@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 🌱 코로나19 속 유아의 언어학습을 돕는 '마리모' 앱개발자
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byunwoojin&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byunwoojin)
 
 
 
